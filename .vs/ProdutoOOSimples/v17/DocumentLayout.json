@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\source\\repos\\ProdutoOOSimples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F034AA0-607F-4D32-908C-6563DC75CFE3}|ProdutoOOSimples\\ProdutoOOSimples.csproj|c:\\users\\julia\\source\\repos\\produtooosimples\\produtooosimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F034AA0-607F-4D32-908C-6563DC75CFE3}|ProdutoOOSimples\\ProdutoOOSimples.csproj|solutionrelative:produtooosimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F034AA0-607F-4D32-908C-6563DC75CFE3}|ProdutoOOSimples\\ProdutoOOSimples.csproj|c:\\users\\julia\\source\\repos\\produtooosimples\\produtooosimples\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F034AA0-607F-4D32-908C-6563DC75CFE3}|ProdutoOOSimples\\ProdutoOOSimples.csproj|solutionrelative:produtooosimples\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ProdutoOOSimples\\ProdutoOOSimples\\Program.cs",
+              "RelativeDocumentMoniker": "ProdutoOOSimples\\Program.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\ProdutoOOSimples\\ProdutoOOSimples\\Program.cs",
+              "RelativeToolTip": "ProdutoOOSimples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T04:10:37.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ProdutoOOSimples\\ProdutoOOSimples\\Produto.cs",
+              "RelativeDocumentMoniker": "ProdutoOOSimples\\Produto.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\ProdutoOOSimples\\ProdutoOOSimples\\Produto.cs",
+              "RelativeToolTip": "ProdutoOOSimples\\Produto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T04:20:11.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

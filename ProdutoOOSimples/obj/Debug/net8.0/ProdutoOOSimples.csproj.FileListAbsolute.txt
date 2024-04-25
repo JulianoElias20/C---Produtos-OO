@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\bin\Debug\net8.0\ProdutoOOSimples.exe
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\bin\Debug\net8.0\ProdutoOOSimples.deps.json
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\bin\Debug\net8.0\ProdutoOOSimples.runtimeconfig.json
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\bin\Debug\net8.0\ProdutoOOSimples.dll
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\bin\Debug\net8.0\ProdutoOOSimples.pdb
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\obj\Debug\net8.0\ProdutoOOSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\obj\Debug\net8.0\ProdutoOOSimples.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\obj\Debug\net8.0\ProdutoOOSimples.AssemblyInfo.cs
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\obj\Debug\net8.0\ProdutoOOSimples.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\obj\Debug\net8.0\ProdutoOOSimples.dll
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\obj\Debug\net8.0\refint\ProdutoOOSimples.dll
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\obj\Debug\net8.0\ProdutoOOSimples.pdb
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\obj\Debug\net8.0\ProdutoOOSimples.genruntimeconfig.cache
+C:\Users\julia\source\repos\ProdutoOOSimples\ProdutoOOSimples\obj\Debug\net8.0\ref\ProdutoOOSimples.dll
